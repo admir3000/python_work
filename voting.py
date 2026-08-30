@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 
 age=17
 if age>= 18:
