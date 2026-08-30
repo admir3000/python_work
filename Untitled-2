@@ -1,0 +1,10 @@
+byclcles = ("track", "cannonle", "redline", "specilized")
+print(byclcles[0])
+print(byclcles[1])
+print(byclcles[2])
+print(byclcles[3])
+print(", ".join(byclcles))
+
+listb = ['Kiko', 'Mujo', 'Ado']
+listb.insert(0, 'Alen')
+print(", ".join(listb))
